@@ -6,7 +6,7 @@ Purpose:
 1. To learn Git and Github
 2. To tell you more about me.
 
-# What do I know 
+# What am I learning 
 
 1. Javacript
 2. Repl.it
