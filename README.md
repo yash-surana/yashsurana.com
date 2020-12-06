@@ -8,9 +8,9 @@ Purpose:
 
 # What do I know 
 
-a. Javacript
-b. Repl.it
-c. Python
-d. HTML
+1. Javacript
+2. Repl.it
+3. Python
+4. HTML
 
 
